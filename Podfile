@@ -7,4 +7,11 @@ target 'instagram' do
 
   # Pods for instagram
 
+pod 'Appirater'
+pod 'Firebase/Core'
+pod 'Firebase/Auth'
+pod 'Firebase/Database'
+pod 'Firebase/Analytics'
+pod 'Firebase/Crashlytics'
+
 end
